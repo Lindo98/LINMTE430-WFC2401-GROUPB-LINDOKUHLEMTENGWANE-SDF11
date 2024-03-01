@@ -25,3 +25,7 @@ https://www.loom.com/share/e1fc8e26a8964a17845e7f0b5b02f457?sid=ee6188de-dc8d-4e
 My presentation slides are here
 
 https://www.canva.com/design/DAF-KvJLBis/L4uW8g8nPpa-2FOW-NmF8w/edit
+
+Here is my Netlify link
+
+https://65e1ed9ad0a6efe8066fbe0c--shimmering-pothos-0d0761.netlify.app/#home
